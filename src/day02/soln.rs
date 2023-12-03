@@ -82,7 +82,7 @@ pub fn part2() {
             }
         }
 
-        println!("Part 1: {}", sum);
+        println!("Part 2: {}", sum);
     }
 }
 

@@ -2,6 +2,7 @@ mod day01;
 mod day02;
 mod day03;
 mod day04;
+mod day05;
 
 fn main() {
     println!("==== DAY01 ====");
@@ -22,5 +23,10 @@ fn main() {
     println!("==== DAY04 ====");
     day04::soln::part1();
     day04::soln::part2();
+    println!();
+
+    println!("==== DAY05 ====");
+    day05::soln::part1();
+    day05::soln::part2();
     println!();
 }
